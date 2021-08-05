@@ -1,8 +1,8 @@
-/dlib-19.6
 /.idea
 /.vscode
 /__pycache__/
 /vendor
 /venv
 /videos
-/test
+/output
+/data
