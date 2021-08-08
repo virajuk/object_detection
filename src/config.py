@@ -11,5 +11,5 @@ PLOT_PATH = os.path.sep.join([BASE_OUTPUT, "plot.png"])
 TEST_FILENAMES = os.path.sep.join([BASE_OUTPUT, "test_images.txt"])
 
 INIT_LR = 1e-4
-NUM_EPOCHS = 25
+NUM_EPOCHS = 2
 BATCH_SIZE = 32
